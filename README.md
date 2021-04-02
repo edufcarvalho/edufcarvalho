@@ -6,7 +6,7 @@
 
 🇧🇷 Based in Brazil 🇧🇷
 
-🎓 &nbsp; Seeking a Computer Science barchelor's degree at [Federal University of Rio de Janeiro](https://ufrj.br/) (1st semester). <en/> 
+🎓 &nbsp; Seeking a Computer Science barchelor's degree at [Federal University of Rio de Janeiro](https://ufrj.br/) (2nd semester). <en/> 
 
 ---
 ### 💻 &nbsp; Knowledge roll:
