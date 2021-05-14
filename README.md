@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![Relationship](https://img.shields.io/badge/Relationship-Single-blue) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:eduardofc@dcc.ufrj.br)](mailto:eduardofc@dcc.ufrj.br)
 
-<en>My name is Eduardo, a 18 years old software developer passionate about how code has changed my perspectives, and also how AI is bringing Skynet to life.
+<en>My name is Eduardo, a 19 years old software developer passionate about how code has changed my perspectives, and also how AI is bringing Skynet to life.
 
 🇧🇷 Based in Brazil 🇧🇷
 
