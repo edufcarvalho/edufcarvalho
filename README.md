@@ -11,7 +11,7 @@
 ---
 ### 💻 &nbsp; Knowledge roll:
 - ##### Programming Languages:
-  ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=Red) ![JS](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python3-000000?style=flat&logo=Python)
+  ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=Red) ![JS](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python3-000000?style=flat&logo=Python) ![C](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 
 - ##### Technologies/Tools:
   ![HTML](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=blue) ![MD](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=orange) ![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=node.js) ![Linux](https://img.shields.io/badge/-Linux-000000?style=material&logo=Linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git) ![npm](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub) 
